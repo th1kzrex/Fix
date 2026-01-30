@@ -1,0 +1,212 @@
+[
+  {
+    "VehicleID": 36001,
+    "VehicleName": "Grey Paras",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36002,
+    "VehicleName": "Cream Paras",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36003,
+    "VehicleName": "Black Paras",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36004,
+    "VehicleName": "Red Paras",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36005,
+    "VehicleName": "White Paras",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36006,
+    "VehicleName": "Grey Fifi",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36007,
+    "VehicleName": "Black Fifi",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36008,
+    "VehicleName": "Cream Fifi",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36009,
+    "VehicleName": "Red Fifi",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36010,
+    "VehicleName": "White Fifi",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36021,
+    "VehicleName": "Expeditioner",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36022,
+    "VehicleName": "Grey Scout",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36023,
+    "VehicleName": "Scout Police",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36031,
+    "VehicleName": "Black Scout",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36032,
+    "VehicleName": "Cream Scout",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36033,
+    "VehicleName": "Red Scout",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36034,
+    "VehicleName": "White Scout",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36035,
+    "VehicleName": "Grey Fletcher",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36036,
+    "VehicleName": "Black Fletcher",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36037,
+    "VehicleName": "Cream Fletcher",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36038,
+    "VehicleName": "Red Fletcher",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36039,
+    "VehicleName": "White Fletcher",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36045,
+    "VehicleName": "Bushwacker",
+    "BuyPrice": 3800.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36046,
+    "VehicleName": "Bus",
+    "BuyPrice": 3800.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36047,
+    "VehicleName": "Responder",
+    "BuyPrice": 3800.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36048,
+    "VehicleName": "Taxi",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36049,
+    "VehicleName": "Police Van",
+    "BuyPrice": 4000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36050,
+    "VehicleName": "Military Quad",
+    "BuyPrice": 4000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36051,
+    "VehicleName": "Police Quad",
+    "BuyPrice": 4000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "VehicleID": 36052,
+    "VehicleName": "Tractor",
+    "BuyPrice": 3000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  }
+]

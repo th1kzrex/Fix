@@ -1,0 +1,394 @@
+[
+  {
+    "ID": 36001,
+    "Vehiclename": "Grey Paras",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36002,
+    "Vehiclename": "Cream Paras",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36003,
+    "Vehiclename": "Black Paras",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36004,
+    "Vehiclename": "Red Paras",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36005,
+    "Vehiclename": "White Paras",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36006,
+    "Vehiclename": "Grey Fifi",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36007,
+    "Vehiclename": "Black Fifi",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36008,
+    "Vehiclename": "Cream Fifi",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36009,
+    "Vehiclename": "Red Fifi",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36010,
+    "Vehiclename": "White Fifi",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36011,
+    "Vehiclename": "Grey Offender",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36012,
+    "Vehiclename": "Black Offender",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36013,
+    "Vehiclename": "Cream Offender",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36014,
+    "Vehiclename": "Red Offender",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36015,
+    "Vehiclename": "White Offender",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36016,
+    "Vehiclename": "Grey Traveler",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36017,
+    "Vehiclename": "Black Traveler",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36018,
+    "Vehiclename": "Cream Traveler",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36019,
+    "Vehiclename": "Red Traveler",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36020,
+    "Vehiclename": "White Traveler",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36021,
+    "Vehiclename": "Expeditioner",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36022,
+    "Vehiclename": "Grey Scout",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36023,
+    "Vehiclename": "Scout Police",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36024,
+    "Vehiclename": "Minecart #1",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36025,
+    "Vehiclename": "Rotor",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36026,
+    "Vehiclename": "Minecart #2",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36027,
+    "Vehiclename": "Katalina",
+    "BuyPrice": 4500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36029,
+    "Vehiclename": "Ghost Paras",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36031,
+    "Vehiclename": "Black Scout",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36032,
+    "Vehiclename": "Cream Scout",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36033,
+    "Vehiclename": "Red Scout",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36034,
+    "Vehiclename": "White Scout",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36035,
+    "Vehiclename": "Grey Fletcher",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36036,
+    "Vehiclename": "Black Fletcher",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36037,
+    "Vehiclename": "Cream Fletcher",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36038,
+    "Vehiclename": "Red Fletcher",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36039,
+    "Vehiclename": "White Fletcher",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36040,
+    "Vehiclename": "Grey Competitor",
+    "BuyPrice": 6500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36041,
+    "Vehiclename": "Black Competitor",
+    "BuyPrice": 6500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36042,
+    "Vehiclename": "Cream Competitor",
+    "BuyPrice": 6500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36043,
+    "Vehiclename": "Red Competitor",
+    "BuyPrice": 6500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36044,
+    "Vehiclename": "White Competitor",
+    "BuyPrice": 6500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36045,
+    "Vehiclename": "Bushwacker",
+    "BuyPrice": 3800.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36046,
+    "Vehiclename": "Bus",
+    "BuyPrice": 3800.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36047,
+    "Vehiclename": "Responder",
+    "BuyPrice": 3800.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36048,
+    "Vehiclename": "Taxi",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36049,
+    "Vehiclename": "Police Van",
+    "BuyPrice": 4000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36050,
+    "Vehiclename": "Military Quad",
+    "BuyPrice": 4000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36051,
+    "Vehiclename": "Police Quad",
+    "BuyPrice": 4000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36052,
+    "Vehiclename": "Tractor",
+    "BuyPrice": 3000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36053,
+    "Vehiclename": "Aqua Offender",
+    "BuyPrice": 6000.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36054,
+    "Vehiclename": "Grey Snowmobile",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36055,
+    "Vehiclename": "Black Snowmobile",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36056,
+    "Vehiclename": "Cream Snowmobile",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36057,
+    "Vehiclename": "Red Snowmobile",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  },
+  {
+    "ID": 36058,
+    "Vehiclename": "White Snowmobile",
+    "BuyPrice": 3500.0,
+    "SellPrice": 0.0,
+    "Category": "Vehicles"
+  }
+]
